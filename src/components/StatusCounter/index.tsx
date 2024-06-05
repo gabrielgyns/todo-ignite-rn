@@ -27,7 +27,10 @@ const styles = StyleSheet.create({
 		gap: 8,
 		alignItems: "center",
 	},
-	statusText: {},
+	statusText: {
+		fontSize: 14,
+		fontWeight: "bold",
+	},
 	counterContainer: {
 		backgroundColor: "#333333",
 		borderRadius: 999,
